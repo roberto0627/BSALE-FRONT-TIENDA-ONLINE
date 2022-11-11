@@ -7,9 +7,7 @@
     }
     
     
-.container{
-  position: fixed;
-}
+
 #products {
   margin-top: 30px;
   display: flex;
